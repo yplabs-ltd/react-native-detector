@@ -1,4 +1,4 @@
-# rn-detector
+# @yplabs-ltd/react-native-detector
 
 a simply and easy to use screenshot detector for react native.
 
@@ -7,13 +7,13 @@ a simply and easy to use screenshot detector for react native.
 yarn
 
 ```sh
-yarn add react-native-detector
+yarn add @yplabs-ltd/react-native-detector
 ```
 
 npm
 
 ```sh
-npm install react-native-detector
+npm install @yplabs-ltd/react-native-detector
 ```
 
 ### iOS
@@ -56,7 +56,7 @@ const requestPermission = async () => {
 import {
   addScreenshotListener,
   addScreenrecordListener,
-} from 'rn-detector';
+} from '@yplabs-ltd/react-native-detector';
 
 // ...
 React.useEffect(() => {

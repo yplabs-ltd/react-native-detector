@@ -1,6 +1,6 @@
 {
-  "name": "react-native-screen-detector",
-  "version": "0.1.0",
+  "name": "@yplabs-ltd/react-native-detector",
+  "version": "0.1.1",
   "description": "a screenshot and screenrecord detector for react native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
