@@ -1,5 +1,5 @@
 {
-  "name": "react-native-detector",
+  "name": "react-native-screen-detector",
   "version": "0.1.0",
   "description": "a screenshot and screenrecord detector for react native",
   "main": "lib/commonjs/index",
